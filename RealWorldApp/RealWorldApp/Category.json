@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Meals",
+    "imageUrl": "Deal12.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Deals",
+    "imageUrl": "Deal23.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Snacks",
+    "imageUrl": "Deal25.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Treats",
+    "imageUrl": "Deal4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Drinks",
+    "imageUrl": "Deal15.jpg"
+  }
+
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Veggie Rice",
+    "detail": "A deliciously sweet mini cob of golden corn, served with steamed Tex Mex rice, fresh lettuce, chopped tomatoes and a bean salsa, drizzled with sour cream sauce. Light, filling and delicious. Served with a drink.",
+    "price": 50.00,
+    "isPopularProduct": true,
+    "categoryId": 1,
+    "imageUrl": "Deal17.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Zinger Rice",
+    "detail": "N'One piece of our fiery Zinger chicken with steamed Tex Mex rice, fresh lettuce and a bean salsa, drizzled with sour cream sauce. Light, filling and spicy.",
+    "price": 150.00,
+    "isPopularProduct": true,
+    "categoryId": 1,
+    "imageUrl": "Deal20.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Zinger Burger",
+    "detail": "Our simple, succulent 100% chicken breast Fillet burger, plus spine-tingling Zing. With regular fries and a regular drink.",
+    "price": 250.00,
+    "isPopularProduct": true,
+    "categoryId": 2,
+    "imageUrl": "Deal13.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Kids PopCorn Chicken",
+    "detail": "Our one hundred chicken breast Popcorn Chicken pieces. A fun, bite-sized snack.",
+    "price": 25.00,
+    "isPopularProduct": false,
+    "categoryId": 2,
+    "imageUrl": "Deal29.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Boneless Banquet",
+    "detail": "A banquet of three chicken breast Mini Fillets, plus Popcorn Chicken, regular fries, regular side, one KFC Original Dip and drink. A fuss-free dipper's delight.",
+    "price": 125.00,
+    "isPopularProduct": false,
+    "categoryId": 3,
+    "imageUrl": "Deal7.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Boneless Dips",
+    "detail": "Four of our chicken breast Mini Fillets, with two KFC Original Dips, a regular side and drink. A no-fuss feast.",
+    "price": 150.00,
+    "isPopularProduct": false,
+    "categoryId": 3,
+    "imageUrl": "Deal12.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mighty Bucket",
+    "detail": "Two pieces of Original Recipe chicken, two chicken breast Mini Fillets and a pair of spicy hot wings.",
+    "price": 450.00,
+    "isPopularProduct": true,
+    "categoryId": 4,
+    "imageUrl": "Deal36.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Zinger Stacker",
+    "detail": "Made with two fiery zinger fillets, topped with two slices of cheese, supercharger and sweet chilli sauce. Fiery and delicious. With regular fries and drink.",
+    "price": 300.00,
+    "isPopularProduct": true,
+    "categoryId": 4,
+    "imageUrl": "Deal11.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Zinger Stacker 2",
+    "detail": "Made with two fiery zinger fillets, topped with two slices of cheese, supercharger and sweet chilli sauce. Fiery and delicious. With regular fries and drink.",
+    "price": 300.00,
+    "isPopularProduct": true,
+    "categoryId": 5,
+    "imageUrl": "Deal15.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Zinger Stacker 3",
+    "detail": "Made with two fiery zinger fillets, topped with two slices of cheese, supercharger and sweet chilli sauce. Fiery and delicious. With regular fries and drink.",
+    "price": 300.00,
+    "isPopularProduct": true,
+    "categoryId": 5,
+    "imageUrl": "Deal18.jpg"
+  }
+
+
+]
